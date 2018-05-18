@@ -18,6 +18,7 @@
   <backgrounds name="background">
     <background>background\B_01</background>
     <background>background\B_floar1</background>
+    <background>background\B_Gameover</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -32,6 +33,7 @@
   <rooms name="rooms">
     <room>rooms\room0</room>
     <room>rooms\room1</room>
+    <room>rooms\R_GameOver</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
