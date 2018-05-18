@@ -13,10 +13,11 @@
     <sprite>sprites\spr_people3</sprite>
     <sprite>sprites\spr_lunch</sprite>
     <sprite>sprites\spr_paper</sprite>
+    <sprite>sprites\spr_left</sprite>
   </sprites>
   <backgrounds name="background">
-    <background>background\B</background>
-    <background>background\B_floar</background>
+    <background>background\B_01</background>
+    <background>background\B_floar1</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
