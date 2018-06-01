@@ -14,6 +14,7 @@
     <sprite>sprites\spr_lunch</sprite>
     <sprite>sprites\spr_paper</sprite>
     <sprite>sprites\spr_left</sprite>
+    <sprite>sprites\spr_Logo</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\B_01</background>
@@ -29,8 +30,10 @@
     <object>objects\obj_lunch</object>
     <object>objects\obj_paper</object>
     <object>objects\obj_god</object>
+    <object>objects\Logo</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\R_Start</room>
     <room>rooms\room0</room>
     <room>rooms\room1</room>
     <room>rooms\R_GameOver</room>
